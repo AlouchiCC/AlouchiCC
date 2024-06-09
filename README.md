@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alouchi</h1>
+![image](https://github.com/AlouchiCC/AlouchiCC/assets/136171233/b3344f25-5e20-4bcb-8d68-8d96440cc48a)<h1 align="center">Hi 👋, I'm Alouchi</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 
@@ -21,5 +21,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-
+https://skillicons.dev/icons?i=all
