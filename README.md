@@ -2,15 +2,13 @@
 <h3 align="center">A passionate developer from France</h3>
 
 
-- 🔭 I’m currently working on **Soon**
+- 🔭 I’m currently working on **Zone-Arc, AlouBot**
 
-- 🌱 I’m currently learning **TypeScript, AdonisJS**
+- 🌱 I’m currently learning **none**
 
-- 👯 I’m looking to collaborate on **Last-Life**
+- 👯 I’m worked on **Last-Life, Zone-Delta, AquaCraft**
 
-- 👨‍💻 All of my projects are available at [https://alouchi200.free.fr/porfolio/](https://alouchi200.free.fr/porfolio/)
-
-- 💬 Ask me about **Bukkit**
+- 👨‍💻 All of my projects are available at **...**
 
 - ⚡ Fun fact **I love baguette**
 
