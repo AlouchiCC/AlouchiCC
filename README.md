@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alouchi</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-
-🦧 My developer studio is Velocity Studios
-
 - 💬 Ask me about **Bukkit**
 
 - ⚡ Fun fact **I love baguette**
