@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alouchi</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 💬 Ask me about **Bukkit**
-
-- ⚡ Fun fact **I love baguette**
+- 💬 Ask me about **Bukkit and Forge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
